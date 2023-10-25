@@ -1,0 +1,251 @@
+.eng-mob-70x50-inner {
+  position: absolute;
+  height: 64.34%;
+  width: 351.2%;
+  top: 61.34%;
+  right: -125.6%;
+  bottom: -25.68%;
+  left: -125.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.eng-mob-70x50-child1 {
+  position: absolute;
+  height: 2.16%;
+  top: 1.99%;
+  right: 19.95px;
+  bottom: 95.86%;
+  max-height: 100%;
+  width: 15.11px;
+  cursor: pointer;
+}
+.b227,
+.wrapper20 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.b227 {
+  width: 100%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.wrapper20 {
+  width: 22.73%;
+  right: 77.27%;
+  bottom: 0;
+  background-color: var(--black);
+}
+.span31 {
+  text-transform: uppercase;
+}
+.txt28 {
+  line-break: anywhere;
+  width: 100%;
+}
+.div221 {
+  height: 100%;
+  top: 0;
+}
+.div221,
+.frame-group,
+.wrapper21 {
+  position: absolute;
+}
+.wrapper21 {
+  height: 100%;
+  top: 0;
+}
+.div221 {
+  width: 54.55%;
+  left: 22.73%;
+  font-size: 13.33px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+}
+.wrapper21 {
+  width: 22.73%;
+  right: 0;
+  bottom: 0;
+  left: 77.27%;
+  background-color: var(--black);
+}
+.frame-group {
+  height: 4.28%;
+  width: 35.2%;
+  top: 21.26%;
+  right: 59.47%;
+  bottom: 74.47%;
+  left: 5.33%;
+  background-color: var(--white);
+  border: 1.3px solid var(--black);
+  box-sizing: border-box;
+  display: none;
+  text-align: center;
+  font-size: 26.67px;
+  color: var(--white);
+}
+.uah9 {
+  margin: 0;
+}
+.gb229,
+.uah-get-it-container12 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.uah-get-it-container12 {
+  width: 74.73%;
+  left: 40.27%;
+  line-height: 120%;
+  font-size:16px;
+}
+.gb229 {
+  width: 45.27%;
+  left: 0;
+  font-size: 32px;
+  color: black;
+}
+.uah-get-it-all-parent5 {
+  position: absolute;
+  height: 53.33%;
+  width: 72.8%;
+  top: 0;
+  right: 16%;
+  bottom: 46.67%;
+  left: 11.2%;
+}
+.checkout3,
+.group-child49 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.group-child49 {
+  right: 0;
+  bottom: 0;
+  background-color: var(--black);
+}
+.checkout3 {
+  font-size: var(--font-size-base);
+  letter-spacing: 0.11em;
+  display: flex;
+  font-family: var(--font-pt-mono);
+  color: var(--white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent28 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 26.67%;
+  width: 77.6%;
+  top: 53.33%;
+  right: 11.2%;
+  bottom: 20%;
+  left: 11.2%;
+}
+.group-parent14 {
+  position: absolute;
+  top: 700px;
+  left: 0;
+  background-color: var(--yellow);
+  width: 100%;
+  height: 198px;
+}
+.ordering5 {
+  color: var(--color-silver);
+}
+.basket-ordering-container5 {
+  position: absolute;
+  width: 89.33%;
+  top: 4.99%;
+  left: 5.07%;
+  line-height: 120%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--blue);
+}
+.pirina-7050 {
+  width: 53.07%;
+  top: 13.98%;
+  left: 21.33%;
+  display: inline-block;
+  text-align: center;
+}
+.b230,
+.icon25,
+.pirina-7050 {
+  position: absolute;
+}
+.b230 {
+  width: 47.2%;
+  top: 21.54%;
+  left: 42.93%;
+  font-size: var(--font-size-5xl);
+  display: none;
+  text-align: right;
+}
+.icon25 {
+  height: 84.35%;
+  width: 64.58%;
+  top: 9.37%;
+  right: 17.71%;
+  bottom: 6.28%;
+  left: 17.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.outlineinterfacetrash5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3%;
+  top: 13.69%;
+  right: 60px;
+  bottom: 83.31%;
+  width: 21px;
+}
+.your-pirina-will-container3 {
+  position: absolute;
+  width: 89.6%;
+  top: 26.11%;
+  left: 5.07%;
+  font-size: var(--font-size-mini);
+  line-height: 120%;
+  display: inline-block;
+}
+.eng-mob-70x50-child2 {
+  position: absolute;
+  top: 12.3%;
+  left: 20px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.eng-mob-70x501 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  font-family: var(--font-pt-mono);
+}

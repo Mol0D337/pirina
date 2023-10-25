@@ -1,0 +1,260 @@
+.eng-mob-70x50-child3 {
+  position: absolute;
+  top: 701px;
+  left: 0;
+  width: 100%;
+  height: 212px;
+  background-color: var(--yellow);
+}
+.eng-mob-70x50-child4 {
+  position: absolute;
+  top: 1.99%;
+  right: 19.95px;
+  width: 15.11px;
+  height: 15.11px;
+  cursor: pointer;
+}
+.materials3,
+.sm3 {
+  position: absolute;
+  line-height: 120%;
+}
+.sm3 {
+  top: 504px;
+  left: 11.2%;
+}
+.materials3 {
+  top: 535px;
+  left: 11.2%;
+}
+.gentle-plush-velour3 {
+  margin: 0;
+}
+.gentle-plush-velour-container3 {
+  position: absolute;
+  top: 561px;
+  left: 11.2%;
+  line-height: 120%;
+  display: inline-block;
+  width: 309px;
+}
+.our-complements3 {
+  top: 611px;
+  left: 11.2%;
+}
+.brooch-heart3,
+.our-complements3,
+.size3 {
+  position: absolute;
+  line-height: 120%;
+}
+.brooch-heart3 {
+  top: 637px;
+  left: 11.2%;
+  display: inline-block;
+  width: 310px;
+}
+.size3 {
+  top: 478px;
+  left: 11.2%;
+}
+.pirina-70501 {
+  position: absolute;
+  width: 61.03%;
+  top: 49.89%;
+  left: 11.2%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--blue);
+}
+.b234 {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.wrapper24 {
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.span34 {
+  text-transform: uppercase;
+}
+.div223 {
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  text-align: left;
+}
+.b235,
+.wrapper25 {
+  width: 30px;
+  height: 30px;
+}
+.b235 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.wrapper25 {
+  position: relative;
+  background-color: var(--black);
+  flex-shrink: 0;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 731px;
+  left: 11.2%;
+  background-color: var(--white);
+  border: 1.3px solid var(--black);
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: 26.67px;
+  color: var(--white);
+}
+.guah-get-it-container15 {
+  position: absolute;
+  top: 0;
+  left: 40.2%;
+  line-height: 120%;
+}
+.b236 {
+  position: absolute;
+  width: 95.47%;
+  top: 2.63%;
+  left: 14.2%;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.guah-get-it-all-parent7 {
+  position: absolute;
+  top: 732px;
+  left: 13.2%;
+  width: 272px;
+  height: 38px;
+  font-size: var(--font-size-base);
+}
+.group-child51 {
+  top: 0;
+  left: 0;
+  background-color: var(--black);
+}
+.buy3,
+.group-child51,
+.rectangle-parent32 {
+  position: absolute;
+  width: 77.6%;
+  height: 40px;
+  top: 53.33%;
+  right: 11.2%;
+  bottom: 20%;
+  left: 11.2%;
+}
+.buy3 {
+  font-size: var(--font-size-base);
+  letter-spacing: 0.11em;
+  display: flex;
+  font-family: var(--font-pt-mono);
+  color: var(--white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent32 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 791px;
+  left: 11.2%;
+}
+.frame-child3 {
+  position: absolute;
+  height: 78.38%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 21.62%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child4 {
+  left: 0;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  position: absolute;
+  top: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child4 {
+  right: 77.59%;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  height: 100%;
+  width: 22.41%;
+  bottom: 0;
+}
+.frame-child5 {
+  right: 51.72%;
+  left: 25.86%;
+}
+.frame-child6 {
+  right: 25.86%;
+  left: 51.72%;
+}
+.frame-child7 {
+  right: 0;
+  left: 77.59%;
+}
+.rectangle-parent34 {
+  position: absolute;
+  height: 17.57%;
+  width: 100%;
+  top: 82.43%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle-parent33 {
+  position: absolute;
+  height: 42.43%;
+  width: 77.33%;
+  top: 4.47%;
+  right: 11.2%;
+  bottom: 53.1%;
+  left: 11.47%;
+}
+.ueng-mob-70x502 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 892px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  font-family: var(--font-pt-mono);
+}

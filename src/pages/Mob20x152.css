@@ -1,0 +1,294 @@
+.mob-20x15-child3 {
+  position: absolute;
+  height: 1.55%;
+  top: 1.43%;
+  right: 19.95px;
+  bottom: 97.03%;
+  max-height: 100%;
+  width: 15.11px;
+  cursor: pointer;
+}
+.span77 {
+  color: var(--black);
+}
+.span78 {
+  color: var(--blue);
+}
+.b396 {
+  position: absolute;
+  width: 89.6%;
+  top: 4.5%;
+  left: 5.07%;
+  line-height: 120%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--color-silver);
+}
+.mob-20x15-child4 {
+  position: absolute;
+  top: 770px;
+  left: 0;
+  width: 1067px;
+  height: 615px;
+}
+.b397,
+.wrapper76 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.b397 {
+  width: 100%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.wrapper76 {
+  width: 21.58%;
+  right: 78.42%;
+  bottom: 0;
+  background-color: var(--black);
+}
+.span80 {
+  text-transform: uppercase;
+}
+.txt43 {
+  line-break: anywhere;
+  width: 100%;
+}
+.div279 {
+  height: 100%;
+  width: 56.83%;
+  top: 0;
+  left: 21.58%;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  display: flex;
+  align-items: center;
+}
+.div279,
+.frame-parent10,
+.wrapper77 {
+  position: absolute;
+}
+.wrapper77 {
+  height: 100%;
+  width: 21.58%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.42%;
+  background-color: var(--black);
+}
+.frame-parent10 {
+  height: 3.07%;
+  width: 37.07%;
+  top: 81.88%;
+  right: 51.2%;
+  bottom: 15.05%;
+  left: 11.73%;
+  background-color: var(--white);
+  border: 1.3px solid var(--black);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 26.67px;
+  color: var(--white);
+}
+.p187 {
+  margin: 0;
+}
+.div280 {
+  width: 72.29%;
+  top: 0;
+  left: 27.71%;
+  line-height: 120%;
+  display: inline-block;
+}
+.b399,
+.div280,
+.parent52 {
+  position: absolute;
+}
+.b399 {
+  width: 26.51%;
+  top: 2.63%;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.parent52 {
+  height: 3.89%;
+  width: 66.4%;
+  top: 87.31%;
+  right: 21.87%;
+  bottom: 8.8%;
+  left: 11.73%;
+}
+.b400,
+.group-child88 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.group-child88 {
+  right: 0;
+  bottom: 0;
+  background-color: var(--black);
+}
+.b400 {
+  font-size: var(--font-size-base);
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  display: flex;
+  font-family: var(--font-pt-mono);
+  color: var(--white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent71 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 4.09%;
+  width: 77.6%;
+  top: 93.35%;
+  right: 11.2%;
+  bottom: 2.56%;
+  left: 11.2%;
+}
+.b401 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+  display: inline-block;
+}
+.wrapper78 {
+  position: absolute;
+  top: 8.9%;
+  right: 5.6%;
+  bottom: 89.46%;
+  left: 5.07%;
+}
+.wrapper78,
+.wrapper79,
+.wrapper80 {
+  height: 1.64%;
+  width: 89.33%;
+}
+.wrapper79 {
+  position: absolute;
+  top: 17.71%;
+  right: 5.33%;
+  bottom: 80.66%;
+  left: 5.33%;
+}
+.wrapper80 {
+  top: 26.51%;
+  right: 5.6%;
+  bottom: 71.85%;
+}
+.b405,
+.wrapper80,
+.wrapper81 {
+  position: absolute;
+  left: 5.07%;
+}
+.wrapper81 {
+  height: 1.64%;
+  width: 89.6%;
+  top: 61.72%;
+  right: 5.33%;
+  bottom: 36.64%;
+}
+.b405 {
+  width: 89.33%;
+  top: 36.34%;
+  line-height: 100%;
+  display: inline-block;
+}
+.inputflushed60 {
+  top: 12.18%;
+  bottom: 84.54%;
+}
+.inputflushed60,
+.inputflushed61,
+.inputflushed62 {
+  background-color: transparent;
+  position: absolute;
+  height: 3.28%;
+  width: 77.6%;
+  right: 17.07%;
+  left: 5.33%;
+}
+.inputflushed61 {
+  top: 20.98%;
+  bottom: 75.74%;
+}
+.inputflushed62 {
+  top: 29.79%;
+  bottom: 66.94%;
+}
+.checkboxdefault-with-label48 {
+  position: absolute;
+  height: 5.94%;
+  width: 81.87%;
+  top: 39.3%;
+  right: 12.8%;
+  bottom: 54.76%;
+  left: 5.33%;
+}
+.checkboxdefault-with-label49 {
+  top: 46.16%;
+  bottom: 47.9%;
+}
+.checkboxdefault-with-label49,
+.checkboxdefault-with-label50 {
+  position: absolute;
+  height: 5.94%;
+  width: 81.87%;
+  right: 12.8%;
+  left: 5.33%;
+}
+.inputflushed63 {
+  position: absolute;
+  left: 5.33%;
+}
+.checkboxdefault-with-label50 {
+  top: 53.02%;
+  bottom: 41.04%;
+}
+.inputflushed63 {
+  background-color: transparent;
+  height: 3.28%;
+  width: 77.6%;
+  top: 65.4%;
+  right: 17.07%;
+  bottom: 31.32%;
+}
+.checkboxdefault-with-label51 {
+  position: absolute;
+  height: 5.94%;
+  width: 81.87%;
+  top: 71.03%;
+  right: 12.8%;
+  bottom: 23.03%;
+  left: 5.33%;
+}
+.mob-20x152 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 977px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  font-family: var(--font-pt-mono);
+}

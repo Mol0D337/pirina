@@ -1,0 +1,395 @@
+@keyframes slide-in-bottom {
+  0% {
+    transform: translateY(200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.x15-pop-up-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1760px;
+  height: 900px;
+}
+.b107,
+.b108,
+.div99 {
+  position: absolute;
+  display: inline-block;
+}
+.b107 {
+  width: 40.57%;
+  top: 6%;
+  left: 48.81%;
+  font-size: var(--font-size-41xl);
+  color: var(--blue);
+}
+.b108,
+.div99 {
+  line-height: 120%;
+}
+.div99 {
+  width: 100%;
+  top: 12.35%;
+  left: 0;
+}
+.b108 {
+  width: 99.85%;
+  top: 30.54%;
+  left: 0.15%;
+}
+.p77 {
+  margin: 0;
+}
+.div100 {
+  position: absolute;
+  width: 99.85%;
+  top: 42.89%;
+  left: 0.15%;
+}
+.b109,
+.div100,
+.div101 {
+  line-height: 120%;
+  display: inline-block;
+}
+.b109 {
+  position: absolute;
+  width: 99.85%;
+  top: 70.16%;
+  left: 0.15%;
+}
+.div101 {
+  width: 100%;
+  top: 82.28%;
+  left: 0;
+}
+.b110,
+.div101,
+.parent10 {
+  position: absolute;
+}
+.b110 {
+  width: 99.85%;
+  top: 0;
+  left: 0.15%;
+  line-height: 120%;
+  display: inline-block;
+}
+.parent10 {
+  height: 47.67%;
+  width: 51.18%;
+  top: 22.22%;
+  right: 0.02%;
+  bottom: 30.11%;
+  left: 48.81%;
+}
+.b111,
+.x15-pop-up-item {
+  position: absolute;
+  display: none;
+}
+.x15-pop-up-item {
+  height: 22.22%;
+  top: 77.78%;
+  bottom: 0;
+  left: calc(50% - 1125px);
+  max-height: 100%;
+  width: 2250.18px;
+}
+.b111 {
+  height: 9.11%;
+  width: 4.66%;
+  top: 84.22%;
+  left: 74.83%;
+  font-size: 72.89px;
+  color: var(--white);
+  text-align: center;
+}
+.b111,
+.span9 {
+  text-transform: uppercase;
+}
+.b112,
+.div102 {
+  position: absolute;
+  display: none;
+}
+.div102 {
+  width: 4.94%;
+  top: 86.56%;
+  left: 82.59%;
+  font-size: var(--font-size-17xl);
+}
+.b112 {
+  height: 9.11%;
+  width: 4.66%;
+  top: 84.22%;
+  left: 90.64%;
+  font-size: 72.89px;
+  text-transform: uppercase;
+  color: var(--white);
+  text-align: center;
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  bottom: 77.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child10,
+.group-child11,
+.group-child12,
+.group-child13 {
+  height: 22.69%;
+  width: 17.73%;
+  right: 0;
+  left: 82.27%;
+}
+.group-child11,
+.group-child12,
+.group-child13,
+.group-child14 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child11 {
+  top: 25.77%;
+  bottom: 51.54%;
+}
+.group-child12 {
+  top: 51.54%;
+  bottom: 25.77%;
+}
+.group-child13 {
+  top: 77.31%;
+  bottom: 0;
+}
+.group-child14 {
+  height: 99.82%;
+  width: 78.01%;
+  top: 0;
+  right: 21.99%;
+  bottom: 0.18%;
+  left: 0;
+}
+.rectangle-parent5 {
+  position: absolute;
+  height: 61.22%;
+  width: 40.06%;
+  top: 7.78%;
+  right: 55.97%;
+  bottom: 31%;
+  left: 3.98%;
+}
+.b113,
+.group-child15 {
+  position: absolute;
+  height: 97.83%;
+}
+.group-child15 {
+  width: 99.71%;
+  top: 0;
+  right: 0;
+  bottom: 2.17%;
+  left: 0.29%;
+  background-color: var(--black);
+}
+.b113 {
+  width: 100%;
+  top: 2.17%;
+  left: 0;
+  font-size: 33.32px;
+  letter-spacing: 0.11em;
+  display: flex;
+  font-family: var(--font-pt-mono);
+  color: var(--white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 40.53%;
+  width: 19.49%;
+  top: 21.59%;
+  right: 76.59%;
+  bottom: 37.89%;
+  left: 3.92%;
+}
+.txt13 {
+  line-break: anywhere;
+  width: 100%;
+}
+.b114,
+.div103 {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.div103 {
+  height: 97.44%;
+  width: 41.74%;
+  left: 58.26%;
+  line-height: 120%;
+}
+.b114 {
+  height: 100%;
+  width: 51.81%;
+  left: 0;
+  font-size: var(--font-size-51xl);
+  text-align: right;
+}
+.group-child16,
+.parent11 {
+  position: absolute;
+  top: 0;
+}
+.parent11 {
+  height: 84.58%;
+  width: 42.33%;
+  right: 3.98%;
+  bottom: 15.42%;
+  left: 53.69%;
+}
+.group-child16 {
+  height: 100%;
+  width: 67.16%;
+  right: 15.36%;
+  bottom: 0;
+  left: 17.48%;
+  background-color: var(--white);
+  border: 3.6px solid var(--black);
+  box-sizing: border-box;
+}
+.div104 {
+  position: absolute;
+  height: 97.56%;
+  width: 54.39%;
+  top: 1.22%;
+  left: 22.76%;
+  font-size: var(--font-size-17xl);
+  color: var(--black);
+  display: flex;
+  align-items: center;
+}
+.b115,
+.wrapper6,
+.wrapper7 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.b115 {
+  width: 100%;
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.wrapper6,
+.wrapper7 {
+  width: 22.76%;
+  right: 0;
+  bottom: 0;
+  left: 77.24%;
+  background-color: var(--black);
+}
+.wrapper7 {
+  right: 77.24%;
+  left: 0;
+}
+.rectangle-parent7 {
+  position: absolute;
+  height: 36.12%;
+  width: 20.47%;
+  top: 24.23%;
+  right: 52.25%;
+  bottom: 39.65%;
+  left: 27.27%;
+  display: none;
+  text-align: center;
+  font-size: 72.89px;
+  color: var(--white);
+}
+.group-parent4 {
+  position: absolute;
+  height: 25.22%;
+  width: 100%;
+  top: 78.22%;
+  right: 0;
+  bottom: -3.44%;
+  left: 0;
+  background-color: var(--yellow);
+}
+.x15-pop-up-inner {
+  position: absolute;
+  height: 4.78%;
+  top: 7.44%;
+  right: 56.9px;
+  bottom: 87.78%;
+  max-height: 100%;
+  width: 37.66px;
+  cursor: pointer;
+}
+.x15-pop-up {
+  position: relative;
+  background-color: var(--white);
+  width: 1760px;
+  height: 900px;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--black);
+  font-family: var(--font-pt-mono);
+}
+.x15-pop-up.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-bottom;
+}
+@media screen and (max-width: 1330px) {
+  .b107 {
+    font-size: var(--font-size-31xl);
+  }
+  .b108,
+  .b109,
+  .b110,
+  .b113,
+  .div100,
+  .div101,
+  .div103,
+  .div99 {
+    font-size: var(--font-size-5xl);
+  }
+  .b114 {
+    font-size: var(--font-size-41xl);
+  }
+}
+@media screen and (max-width: 960px) {
+  .b107 {
+    font-size: var(--font-size-21xl);
+  }
+  .b113,
+  .div103 {
+    font-size: var(--font-size-lg);
+  }
+  .b114 {
+    font-size: var(--font-size-31xl);
+  }
+}

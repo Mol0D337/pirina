@@ -1,0 +1,390 @@
+@keyframes slide-in-bottom {
+  0% {
+    transform: translateY(200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.b137 {
+  position: absolute;
+  height: 9.11%;
+  width: 4.66%;
+  top: 84.22%;
+  left: 74.83%;
+  display: none;
+  color: var(--white);
+  text-align: center;
+}
+.b137,
+.span20 {
+  text-transform: uppercase;
+}
+.b138,
+.div114 {
+  position: absolute;
+  display: none;
+}
+.div114 {
+  width: 4.94%;
+  top: 86.56%;
+  left: 82.59%;
+  font-size: var(--font-size-17xl);
+}
+.b138 {
+  height: 9.11%;
+  width: 4.66%;
+  top: 84.22%;
+  left: 90.64%;
+  text-transform: uppercase;
+  color: var(--white);
+  text-align: center;
+}
+.eng-20x15-pop-up-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.materials,
+.pirina-20151,
+.sm {
+  position: absolute;
+  display: inline-block;
+}
+.pirina-20151 {
+  width: 40.57%;
+  top: 6%;
+  left: 48.81%;
+  font-size: var(--font-size-41xl);
+  color: var(--blue);
+}
+.materials,
+.sm {
+  line-height: 120%;
+}
+.sm {
+  width: 100%;
+  top: 12.35%;
+  left: 0;
+}
+.materials {
+  width: 99.85%;
+  top: 30.54%;
+  left: 0.15%;
+}
+.gentle-plush-velour {
+  margin: 0;
+}
+.brooch-heart,
+.gentle-plush-velour-container {
+  position: absolute;
+  line-height: 120%;
+  display: inline-block;
+}
+.gentle-plush-velour-container {
+  width: 99.85%;
+  top: 42.89%;
+  left: 0.15%;
+}
+.our-complements {
+  width: 99.85%;
+  left: 0.15%;
+}
+.our-complements,
+.size {
+  position: absolute;
+  line-height: 120%;
+  display: inline-block;
+}
+.our-complements {
+  top: 70.16%;
+}
+.brooch-heart {
+  width: 100%;
+  top: 82.28%;
+  left: 0;
+}
+.size {
+  width: 99.85%;
+  top: 0;
+  left: 0.15%;
+}
+.sm-parent {
+  position: absolute;
+  height: 47.67%;
+  width: 51.18%;
+  top: 22.22%;
+  right: 0.02%;
+  bottom: 30.11%;
+  left: 48.81%;
+  font-size: var(--font-size-13xl);
+}
+.buy,
+.group-child29 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.group-child29 {
+  width: 99.71%;
+  right: 0;
+  bottom: 0;
+  left: 0.29%;
+  background-color: var(--black);
+}
+.buy {
+  width: 100%;
+  left: 0;
+  font-size: 33.32px;
+  letter-spacing: 0.11em;
+  display: flex;
+  font-family: var(--font-pt-mono);
+  color: var(--white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 43.48%;
+  width: 19.49%;
+  top: 24.64%;
+  right: 76.59%;
+  bottom: 31.88%;
+  left: 3.92%;
+}
+.guah-get-it-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.vb139,
+.guah-get-it-container2 {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.guah-get-it-container2 {
+  height: 97.44%;
+  width: 45.27%;
+  left: 73%;
+  line-height: 120%;
+  font-size: 26px;
+}
+.vb139 {
+  height: 100%;
+  width: 47.74%;
+  left: 60%;
+  font-size: var(--font-size-41xl);
+  text-align: right;
+}
+.group-child30,
+.uah-get-it-all-group {
+  position: absolute;
+  top: 0;
+}
+.guah-get-it-all-group {
+  height: 94.69%;
+  width: 39.03%;
+  right: 3.98%;
+  bottom: 5.31%;
+  left: 56.99%;
+}
+.group-child30 {
+  height: 100%;
+  width: 67.16%;
+  right: 15.36%;
+  bottom: 0;
+  left: 17.48%;
+  background-color: var(--white);
+  border: 3.6px solid var(--black);
+  box-sizing: border-box;
+}
+.div115 {
+  position: absolute;
+  height: 97.56%;
+  width: 54.39%;
+  top: 1.22%;
+  left: 22.76%;
+  font-size: var(--font-size-17xl);
+  color: var(--black);
+  display: flex;
+  align-items: center;
+}
+.b140,
+.wrapper12,
+.wrapper13 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.b140 {
+  width: 100%;
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.wrapper12,
+.wrapper13 {
+  width: 22.76%;
+  right: 0;
+  bottom: 0;
+  left: 77.24%;
+  background-color: var(--black);
+}
+.wrapper13 {
+  right: 77.24%;
+  left: 0;
+}
+.rectangle-parent17 {
+  position: absolute;
+  height: 39.61%;
+  width: 20.47%;
+  top: 26.57%;
+  right: 52.25%;
+  bottom: 33.82%;
+  left: 27.27%;
+  display: none;
+  text-align: center;
+  font-size: 72.89px;
+  color: var(--white);
+}
+.ggroup-parent8 {
+  position: absolute;
+  height: 23%;
+  width: 100%;
+  top: 78.22%;
+  right: 0;
+  bottom: -1.22%;
+  left: 0;
+  background-color: var(--yellow);
+  font-size: var(--font-size-13xl);
+}
+.eng-20x15-pop-up-item,
+.group-child31 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.eng-20x15-pop-up-item {
+  height: 4.78%;
+  width: 2.14%;
+  top: 7.44%;
+  right: 3.23%;
+  bottom: 87.78%;
+  left: 94.63%;
+  cursor: pointer;
+}
+.group-child31 {
+  top: 0;
+  bottom: 77.31%;
+  object-fit: cover;
+}
+.group-child31,
+.group-child32,
+.group-child33,
+.group-child34 {
+  height: 22.69%;
+  width: 17.73%;
+  right: 0;
+  left: 82.27%;
+}
+.group-child32,
+.group-child33,
+.group-child34,
+.group-child35 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child32 {
+  top: 25.77%;
+  bottom: 51.54%;
+}
+.group-child33 {
+  top: 51.54%;
+  bottom: 25.77%;
+}
+.group-child34 {
+  top: 77.31%;
+  bottom: 0;
+}
+.group-child35 {
+  height: 99.82%;
+  width: 78.01%;
+  top: 0;
+  right: 21.99%;
+  bottom: 0.18%;
+  left: 0;
+}
+.rectangle-parent18 {
+  position: absolute;
+  height: 61.22%;
+  width: 40.06%;
+  top: 7.78%;
+  right: 55.97%;
+  bottom: 31%;
+  left: 3.98%;
+}
+.eng-20x15-pop-up {
+  position: relative;
+  background-color: var(--white);
+  width: 1760px;
+  height: 900px;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: 72.89px;
+  color: var(--black);
+  font-family: var(--font-pt-mono);
+}
+.eng-20x15-pop-up.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-bottom;
+}
+@media screen and (max-width: 1330px) {
+  .pirina-20151 {
+    font-size: var(--font-size-31xl);
+  }
+  .brooch-heart,
+  .buy,
+  .gentle-plush-velour-container,
+  .materials,
+  .our-complements,
+  .size,
+  .sm,
+  .uah-get-it-container2 {
+    font-size: var(--font-size-5xl);
+  }
+  .b139 {
+    font-size: var(--font-size-41xl);
+  }
+}
+@media screen and (max-width: 960px) {
+  .pirina-20151 {
+    font-size: var(--font-size-21xl);
+  }
+  .buy {
+    font-size: var(--font-size-lg);
+  }
+  .b139 {
+    font-size: var(--font-size-31xl);
+  }
+}
